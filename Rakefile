@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "chef-datadog"
   gem.homepage = "http://github.com/adamhjk/chef-datadog"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Basic datadog integration}
+  gem.description = %Q{Basic datadog integration}
   gem.email = "adam@opscode.com"
   gem.authors = ["Adam Jacob"]
   # dependencies defined in Gemfile

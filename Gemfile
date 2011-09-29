@@ -1,4 +1,7 @@
 source "http://rubygems.org"
+
+gem "dogapi", ">= 1.0.3"
+
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
