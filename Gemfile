@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "dogapi", ">= 1.0.3"
+gem "dogapi", ">= 1.2.0"
 
 # Add dependencies required to use your gem here.
 # Example:

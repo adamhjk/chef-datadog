@@ -5,7 +5,7 @@ class Chef
   class DataDog < Chef::Handler
     def initialize(api_key)
       @api_key = api_key
-      @dog = Dogapi::Client.new(api_key, 'https://app.datadoghq.com')
+      @dog = Dogapi::Client.new(api_key)
     end
 
     def report
