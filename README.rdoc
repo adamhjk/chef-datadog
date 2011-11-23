@@ -1,6 +1,6 @@
 = chef-datadog
 
-Description goes here.
+chef-datadog is a Chef handler that reports chef metrics and publishes an event on the Datadog newsfeed each time the client runs.
 
 == Contributing to chef-datadog
  
